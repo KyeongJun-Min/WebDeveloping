@@ -1,0 +1,38 @@
+UI(User Interface):
+사용자가 시스템을 제어하기 위해서 사용하는 조작 장치
+ex) 웹 페이지의 버튼
+
+API(Application Programming Interface):
+애플리케이션을 만들기 위해서 프로그래밍을 할 때 사용하는 조작 장치
+ex) js의 alert 함수(경고창을 실행할 수 있는 조작 장치)
+
+
+document : 
+어떤 태그를 삭제하거나, 태그에 자식 태그를 넣고싶다면
+
+DOM : 
+document로 해결할 수 없다면, DOM(Document Object Model)로 수색 범위를 넓히자
+
+window : 
+웹브라우저 자체를 제어해야한다면, 현재 열려있는 웹 페이지의 주소나 새 창 열기 등
+
+ajax : 
+웹 페이지를 리로드하지 않고 정보를 변경하고 싶다면
+
+cookie : 
+웹 페이지가 리로드되어도 현재 상태를 유지하고 싶다면 cookie로 사용자 개인화된 환경을 제공 가능
+
+offline web application : 
+인터넷이 끊겨도 동작하는 웹 페이지를 만들고 싶다면
+
+webRTC : 
+화상 통신
+
+speech : 
+사용자의 음성을 인식하고 음성으로 정보를 전달하고 싶다면
+
+webGL :
+3차원 그래픽으로 게임을 만들고싶다면
+
+webVR : 
+웹으로 VR을 제공하고 싶다면
